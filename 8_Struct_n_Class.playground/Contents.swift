@@ -20,5 +20,5 @@ print(anotherPerson)
 
 anotherPerson.describe()
 
-// MARK: CLASS -> tommorow
+// MARK: CLASS
 
