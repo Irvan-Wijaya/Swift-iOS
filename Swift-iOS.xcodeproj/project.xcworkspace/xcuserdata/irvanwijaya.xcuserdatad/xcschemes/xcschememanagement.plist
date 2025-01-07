@@ -9,6 +9,16 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>1_Variable (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>82</integer>
+		</dict>
+		<key>1_Variable (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>83</integer>
+		</dict>
 		<key>1_Variable (Playground) 2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -39,6 +49,16 @@
 			<key>orderHint</key>
 			<integer>63</integer>
 		</dict>
+		<key>1_Variable (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>80</integer>
+		</dict>
+		<key>1_Variable (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>81</integer>
+		</dict>
 		<key>1_Variable (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -48,6 +68,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+		<key>2_Data_Type (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>86</integer>
+		</dict>
+		<key>2_Data_Type (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>87</integer>
 		</dict>
 		<key>2_Data_Type (Playground) 2.xcscheme</key>
 		<dict>
@@ -79,6 +109,16 @@
 			<key>orderHint</key>
 			<integer>67</integer>
 		</dict>
+		<key>2_Data_Type (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>84</integer>
+		</dict>
+		<key>2_Data_Type (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>85</integer>
+		</dict>
 		<key>2_Data_Type (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -88,6 +128,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>9</integer>
+		</dict>
+		<key>3_Operators (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>78</integer>
+		</dict>
+		<key>3_Operators (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>79</integer>
 		</dict>
 		<key>3_Operators (Playground) 2.xcscheme</key>
 		<dict>
@@ -119,6 +169,16 @@
 			<key>orderHint</key>
 			<integer>51</integer>
 		</dict>
+		<key>3_Operators (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>76</integer>
+		</dict>
+		<key>3_Operators (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>77</integer>
+		</dict>
 		<key>3_Operators (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -128,6 +188,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>13</integer>
+		</dict>
+		<key>4_Conditional_Statement (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>90</integer>
+		</dict>
+		<key>4_Conditional_Statement (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>91</integer>
 		</dict>
 		<key>4_Conditional_Statement (Playground) 2.xcscheme</key>
 		<dict>
@@ -159,6 +229,16 @@
 			<key>orderHint</key>
 			<integer>55</integer>
 		</dict>
+		<key>4_Conditional_Statement (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>88</integer>
+		</dict>
+		<key>4_Conditional_Statement (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>89</integer>
+		</dict>
 		<key>4_Conditional_Statement (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -168,6 +248,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>17</integer>
+		</dict>
+		<key>5_Functions (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>94</integer>
+		</dict>
+		<key>5_Functions (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>95</integer>
 		</dict>
 		<key>5_Functions (Playground) 2.xcscheme</key>
 		<dict>
@@ -199,6 +289,16 @@
 			<key>orderHint</key>
 			<integer>43</integer>
 		</dict>
+		<key>5_Functions (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>5_Functions (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>93</integer>
+		</dict>
 		<key>5_Functions (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -208,6 +308,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>21</integer>
+		</dict>
+		<key>6_Optionals (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>98</integer>
+		</dict>
+		<key>6_Optionals (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>99</integer>
 		</dict>
 		<key>6_Optionals (Playground) 2.xcscheme</key>
 		<dict>
@@ -239,6 +349,16 @@
 			<key>orderHint</key>
 			<integer>47</integer>
 		</dict>
+		<key>6_Optionals (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>96</integer>
+		</dict>
+		<key>6_Optionals (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>97</integer>
+		</dict>
 		<key>6_Optionals (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -248,6 +368,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>25</integer>
+		</dict>
+		<key>7_Enumerations (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>102</integer>
+		</dict>
+		<key>7_Enumerations (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>103</integer>
 		</dict>
 		<key>7_Enumerations (Playground) 2.xcscheme</key>
 		<dict>
@@ -279,6 +409,16 @@
 			<key>orderHint</key>
 			<integer>59</integer>
 		</dict>
+		<key>7_Enumerations (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>100</integer>
+		</dict>
+		<key>7_Enumerations (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>101</integer>
+		</dict>
 		<key>7_Enumerations (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -288,6 +428,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>29</integer>
+		</dict>
+		<key>8_Struct_n_Class (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>74</integer>
+		</dict>
+		<key>8_Struct_n_Class (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>75</integer>
 		</dict>
 		<key>8_Struct_n_Class (Playground) 2.xcscheme</key>
 		<dict>
@@ -319,6 +469,16 @@
 			<key>orderHint</key>
 			<integer>39</integer>
 		</dict>
+		<key>8_Struct_n_Class (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>72</integer>
+		</dict>
+		<key>8_Struct_n_Class (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>73</integer>
+		</dict>
 		<key>8_Struct_n_Class (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -328,6 +488,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>33</integer>
+		</dict>
+		<key>9_Properties (Playground) 10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>106</integer>
+		</dict>
+		<key>9_Properties (Playground) 11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>107</integer>
 		</dict>
 		<key>9_Properties (Playground) 2.xcscheme</key>
 		<dict>
@@ -358,6 +528,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>71</integer>
+		</dict>
+		<key>9_Properties (Playground) 8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>104</integer>
+		</dict>
+		<key>9_Properties (Playground) 9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>105</integer>
 		</dict>
 		<key>9_Properties (Playground).xcscheme</key>
 		<dict>
