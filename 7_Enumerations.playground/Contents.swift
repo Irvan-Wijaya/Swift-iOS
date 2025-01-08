@@ -21,6 +21,7 @@ enum HTTPStatusCode: Int {
     case notFound = 404
     case unauthorized = 401
 }
+
 // Mengakses nilai raw
 let statusCode = HTTPStatusCode.ok
 print("Status Code: \(statusCode.rawValue)")
@@ -57,5 +58,5 @@ func handleResponse(_ response: APIResponse) {
     }
 }
 
-handleResponse(.success(data: "User data loaded"))  // Output: Success: User data loaded
-handleResponse(.failure(error: "Invalid token"))   // Output: Error: Invalid token
+handleResponse(.success(data: "User data loaded"))
+handleResponse(.failure(error: "Invalid token"))
