@@ -19,6 +19,7 @@
 		CB5A307F2D2E0EB100ADA2A9 /* 9_Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 9_Classes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CB5A30802D2E0ED500ADA2A9 /* 10_Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 10_Properties.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CB5A30812D2E3AAA00ADA2A9 /* 11_Closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 11_Closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CB5A30B92D30F73800ADA2A9 /* Basic_Algo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic_Algo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -56,6 +57,7 @@
 		CB5A30252D2D4E3600ADA2A9 = {
 			isa = PBXGroup;
 			children = (
+				CB5A30B92D30F73800ADA2A9 /* Basic_Algo.playground */,
 				CB5A30462D2D4E5E00ADA2A9 /* 1_Variable.playground */,
 				CB5A30472D2D4E5E00ADA2A9 /* 2_Data_Type.playground */,
 				CB5A30482D2D4E5E00ADA2A9 /* 3_Operators.playground */,
