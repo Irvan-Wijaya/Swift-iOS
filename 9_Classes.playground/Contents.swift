@@ -40,6 +40,15 @@ class CountrySinger: Singer {
     }
 }
 
+class KpopSinger: Singer {
+    var company: String
+    
+    init(name: String, age: Int, company: String) {
+        self.company = company
+        super.init(name: name, age: age)
+    }
+}
+
 class HeavyMetalSinger: Singer {
     var noiceLevel: Int
     
