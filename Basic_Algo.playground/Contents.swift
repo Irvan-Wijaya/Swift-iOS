@@ -31,6 +31,7 @@ func fibonaciSequence (_ num: Int) {
         b = temp
     }
 }
+
 fibonaciSequence(10)
 fibonaciSequence2(10)
 
